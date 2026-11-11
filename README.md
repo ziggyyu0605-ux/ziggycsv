@@ -1,3 +1,20 @@
+# ZiggyCSV – Python Code Repository
+
+Welcome to ZiggyCSV!
+
+This repository contains Python programming experiments, data analysis programs, and machine learning codes.
+
+**Search Keyword:** ZiggyCSV
+
+**Topics:**
+- Python Programming
+- Exploratory Data Analysis
+- Pandas and NumPy
+- Data Visualization
+- Machine Learning
+
+All programs are available for students and developers to view and learn from.
+
 1 A To perform Exploratory Data Analysis on the given dataset
 
 import pandas as pd
